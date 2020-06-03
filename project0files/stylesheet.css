@@ -1,0 +1,36 @@
+h1 {
+        color:purple;
+	font-family:Arial;
+        font-size: 150px;
+        text-align: center;
+        text-decoration: underline;
+}
+h3 {
+	color:black;
+        font-size: 40px;
+        text-align: center;
+}
+p{
+	color:black;
+	font-size: 20px;
+	text-align:center;
+}
+.border{
+	border-width:25px;
+	border-color:purple;
+	border-style:solid;
+}
+#hyperlink{
+	padding-top:20px;
+}
+#tb{
+	text-align:center;
+	font-size: 32px;
+	width:70%;
+	border-width:2px;
+	border-color:purple;
+	border-style:solid;
+	margin-left:15%;
+	background-color:white;
+	margin-top:20px;
+}
